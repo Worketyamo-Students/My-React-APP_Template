@@ -1,4 +1,4 @@
-# React + TypeScript + Vite + ShadCN + Prisma + React-Icons + Zustand + TailwindCSS Template
+# React + TypeScript + Vite + ShadCN + React-Icons + Zustand + TailwindCSS Template
 
 Officially created for the **Chisfis - Booking Online Project** of **Students of Work Et Yamo**.
 
@@ -10,7 +10,6 @@ Ce template est une base de projet intégrant les meilleures technologies modern
 - **TypeScript** : Superset de JavaScript qui ajoute des types statiques pour améliorer la fiabilité et la maintenabilité.
 - **Vite** : Un outil de construction rapide pour le développement moderne de projets React.
 - **ShadCN/UI** : Une collection de composants UI utilisant Radix UI et TailwindCSS.
-- **Prisma** : ORM (Object-Relational Mapping) permettant d'interagir facilement avec la base de données.
 - **React-Icons** : Collection d'icônes pour ajouter des éléments visuels attrayants.
 - **Zustand** : Une librairie légère pour la gestion de l'état dans React.
 - **TailwindCSS** : Un framework CSS utilitaire permettant de créer des designs modernes et responsives facilement.
@@ -19,7 +18,6 @@ Ce template est une base de projet intégrant les meilleures technologies modern
 
 - **Initialisation rapide** avec **Vite**.
 - **Gestion d'état fluide** avec **Zustand**.
-- **ORM performant** avec **Prisma** pour faciliter les opérations sur la base de données.
 - **UI moderne** grâce aux composants de **shadcn/ui**.
 - **Styling efficace** avec **TailwindCSS**.
 - **Icônes réutilisables** grâce à **React-Icons**.
